@@ -212,4 +212,4 @@ Mass Effect 2 is available as a full free version for Windows, including all fea
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-20 01:31:36 UTC
+**Last updated:** 2026-10-20 07:05:53 UTC
